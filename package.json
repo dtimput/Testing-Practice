@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "13th Project in The Odin Project meant to demonstrate the use of Test Driven Development, using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtimput/Testing-Practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtimput/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/dtimput/Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.4.3"
+  }
+}
